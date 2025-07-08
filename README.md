@@ -1,8 +1,5 @@
-Here's a polished and impactful **`README.md`** for your **LangGraph-based AI Report Generator** project:
-
+▶️ YouTube Demo: [Watch Here](https://www.youtube.com/watch?v=B3IQRdgbdDM&list=PLe-YIIlt-fbNajMvdZoBUdjZNbmLOMJSU&index=2&ab_channel=Jatin)  
 ---
-
-````markdown
 # 📄 AI Report Generator using LangGraph + Llama3
 
 **AI Report Generator** is an intelligent, structured, and automated report builder powered by **LangGraph**, **LangChain**, and **GROQ's Llama3**. This tool dynamically plans, drafts, and synthesizes professional-quality reports on any topic you choose — within seconds.
@@ -114,8 +111,8 @@ wikipedia
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-report-generator
-cd ai-report-generator
+git clone https://github.com/jatinydav557/Report-generator-agent
+cd Report-generator-agent
 ```
 
 ### 2. Create `.env` file
@@ -168,25 +165,13 @@ It's a real-world application of **Agentic AI**, built for **speed**, **structur
 * [Streamlit](https://streamlit.io/)
 
 ---
-
 ## 🙋‍♂️ Let's Connect
 
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-📦 [GitHub](https://github.com/yourusername)
-📬 Email: [your@email.com](mailto:your@email.com)
-
+* **💼 LinkedIn:** [www.linkedin.com/in/jatin557](https://www.linkedin.com/in/jatin557)
+* **📦 GitHub:** [https://github.com/jatinydav557](https://github.com/jatinydav557)
+* **📬 Email:** [jatinydav557@gmail.com](mailto:jatinydav557@gmail.com)
+* **📱 Contact:** [`+91-7340386035`](tel:+917340386035)
+* **🎥 YouTube:** [Checkout my other working projects](https://www.youtube.com/@jatinML/playlists)
 ---
+By - Me
 
-Made with ❤️ by someone who learned ML, NLP, DL, GenAI, and Agentic AI — and turned it into **real-world utility**.
-
-```
-
----
-
-Let me know if you want:
-- A **dark-themed Streamlit styling**  
-- A **PDF report export button**  
-- A **LangGraph visual in the README** (via mermaid or PNG)
-
-This project seriously showcases your **system design and agentic architecture** skills — exactly the kind of thinking top AI teams are looking for.
-```
